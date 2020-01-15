@@ -1,4 +1,4 @@
-# HHI
+# Weather
 날씨 알림 앱
 
 ## 개발 배경
@@ -8,7 +8,7 @@
 3. 본 앱은 웹앱이므로 어떤 플랫폼이든 관계없이 100% 정상 동작할 것입니다.
 
 ##릴리즈 정보
-1. 안드로이드 버전은 [weather 0.01 alpha](https://github.com/leehanbyeo/HHI/raw/master/hhi.apk)를 눌러서 다운로드 하실 수 있습니다.
+1. 안드로이드 버전은 [weather 0.01 alpha](https://github.com/leehanbyeo/weather/raw/master/weather.apk)를 눌러서 다운로드 하실 수 있습니다.
 2. 웹 버전은 [여기](http://zmsquf789.dothome.co.kr/hhi)를 눌러 브라우저에서 이용할 수 있습니다.
 
 ## 후원
